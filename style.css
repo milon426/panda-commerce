@@ -20,3 +20,39 @@
     border-radius: 8px;
     padding: 9px 25px;
 }
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: #FF136F;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    border-radius: 15px;
+    padding: 15px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+}
+.card{
+    border: none;
+    box-shadow: 10px 20px 40px rgb(240, 174, 174);
+    border-radius: 15px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: #FF589B;
+}
+footer{
+    text-align: center;
+}
