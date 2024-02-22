@@ -2,7 +2,9 @@
 .container{
     margin-bottom: 100px;
 }
-
+.navbar{
+    margin-left: 280px;
+}
 .orange-bg{
     background-color: #fceae8;
     border-radius: 10px;
